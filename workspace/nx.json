@@ -16,8 +16,5 @@
     }
   },
   "projects": {
-    "idonotknow": { "tags": [] },
-    "idonotknow-e2e": { "tags": [], "implicitDependencies": ["idonotknow"] },
-    "my-lib": { "tags": [] }
   }
 }
