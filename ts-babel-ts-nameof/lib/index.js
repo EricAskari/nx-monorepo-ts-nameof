@@ -1,0 +1,5 @@
+"use strict";
+
+console.log("DADA");
+console.log("TEST");
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9pbmRleC50cyJdLCJuYW1lcyI6WyJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOztBQUlBQSxPQUFPLENBQUNDLEdBQVIsQ0FBWSxNQUFaO0FBQ0FELE9BQU8sQ0FBQ0MsR0FBUiIsInNvdXJjZXNDb250ZW50IjpbImludGVyZmFjZSBURVNUIHtcbiAgICBnbzogc3RyaW5nO1xufVxuXG5jb25zb2xlLmxvZyhcIkRBREFcIilcbmNvbnNvbGUubG9nKG5hbWVvZjxURVNUPigpKTtcbiJdfQ==
