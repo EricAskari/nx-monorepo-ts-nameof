@@ -1,0 +1,6 @@
+{
+  "presets": ["@nrwl/react/babel"],
+  "plugins": [
+    "babel-plugin-ts-nameof"
+  ]
+}

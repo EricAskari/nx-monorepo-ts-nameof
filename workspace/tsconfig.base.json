@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@workspace/my-lib": ["libs/my-lib/src/index.ts"]
+      "@workspace/my-lib": ["libs/my-lib/src/index.ts"],
+      "@test/test": ["libs/my-lib/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
